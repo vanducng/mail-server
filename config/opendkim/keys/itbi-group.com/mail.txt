@@ -1,0 +1,3 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4b3MzOj08zSQLoP/ZgNrRWhtGx0yywI6EhSVq+RP1HMFXxMv0w0L5GNtNsqJtF19VNc/smGCI7kzlhvQMCjC48Q+aWeljb4kY8pIE+3rEf3+oz58Ngy32kxGxGfAIXJ+k1PBC5jjlUFZcMFrosoyyl2m+bYSjQH551HWvTyFzjY9YoarOPKIoHQ1ZPGKkz14HjYlvjhAMd9DM/"
+	  "pKLfmLR7Vj5eKWpuPDTeXgH7msqUzHaCdSn3C2pXUgIEHiJdHY43uE7HojzqVK7x58GU+1NqfSMhZY6iIed9MEJVs//a3Bd+BhjIXUYB778STCgBNt5f+QXAamb/sepjiMrPxHjwIDAQAB" )  ; ----- DKIM key mail for itbi-group.com
